@@ -1,9 +1,9 @@
 ---
-Name: Bug Report
-About: For bug reports, crashes, errors, unsupported versions, etc.
-Title: ''
-Labels: ''
-Assignees: ''
+name: Bug Report
+about: For bug reports, crashes, errors, unsupported versions, etc.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
