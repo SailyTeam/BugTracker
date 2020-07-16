@@ -13,10 +13,10 @@ assignees: ''
 3. What version of Saily are you using?
 
 **What are the steps to reproduce the issue?**
-1.
-2.
-3.
-...
+1. 
+2. 
+3. 
+... 
   
 **What do you expect, and what is happening instead?**  
 I expected Saily to...  but instead...  happened.  
