@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.dribbble.com/users/124355/screenshots/3617982/artboard.png" width="175" height="150"></img>
+<img align="left" src="https://wunderfind.app/img/wf-icon-rounded.png" width="150" height="150"></img>
 
 # Saily Bug Tracker
 Experience any bugs while using Saily? Let us know by submitting a bug report here! You may also use this space to submit feature requests or provide feedback about your experience with Saily.
