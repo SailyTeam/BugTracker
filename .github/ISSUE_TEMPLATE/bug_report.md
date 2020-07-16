@@ -13,17 +13,14 @@ assignees: ''
 3. What version of Saily are you using?
 
 **What are the steps to reproduce the issue?**  
- 1.  
- 2.  
- 3.  
- ...  
+Please provide a step by step guide detailing how to reproduce the issue, if possible.  
   
 **What do you expect, and what is happening instead?**  
 I expected Saily to...  but instead...  happened.  
   
 **Does the issue also occur if you enable Safe Mode?**  
-Yes/No  
+Yes or No  
   
-**Any other info, error logs, screenshots, ...?**
-If you are able to upload any additional information, please do.
-
+**Any other info, error logs, screenshots, ...?**  
+If you are able to upload any additional information, please do.  
+  
