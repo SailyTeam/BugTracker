@@ -22,6 +22,6 @@ I expected Saily to...  but instead...  happened.
 **Does the issue also occur if you enable Safe Mode?**  
 Yes or No  
   
-**Any other info, error logs, screenshots, ...?**  
+**Any other info, error logs, APT reports, screenshots, ...?**  
 If you are able to upload any additional information, please do.  
   
