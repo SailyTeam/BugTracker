@@ -11,6 +11,7 @@ assignees: ''
 1. What iDevice are you using?
 2. What version of iOS/iPadOS are you on?
 3. What version of Saily are you using?
+4. What do you use to connect to the internet? (WiFi, Mobile Network, or Ethernet)
 
 **What are the steps to reproduce the issue?**  
 Please provide a step by step guide detailing how to reproduce the issue, if possible.  
